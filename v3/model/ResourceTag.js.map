@@ -1,0 +1,1 @@
+{"version":3,"file":"ResourceTag.js","sourceRoot":"","sources":["../../../../../services/cce/v3/model/ResourceTag.ts"],"names":[],"mappings":";;;AAEA,MAAa,WAAW;IAGpB;IACA,CAAC;IACM,OAAO,CAAC,GAAW;QACtB,IAAI,CAAC,KAAK,CAAC,GAAG,GAAG,CAAC;QAClB,OAAO,IAAI,CAAC;IAChB,CAAC;IACM,SAAS,CAAC,KAAa;QAC1B,IAAI,CAAC,OAAO,CAAC,GAAG,KAAK,CAAC;QACtB,OAAO,IAAI,CAAC;IAChB,CAAC;CACJ;AAbD,kCAaC"}

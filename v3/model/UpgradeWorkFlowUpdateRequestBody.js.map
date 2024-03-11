@@ -1,0 +1,1 @@
+{"version":3,"file":"UpgradeWorkFlowUpdateRequestBody.js","sourceRoot":"","sources":["../../../../../services/cce/v3/model/UpgradeWorkFlowUpdateRequestBody.ts"],"names":[],"mappings":";;;AAGA,MAAa,gCAAgC;IAEzC;IACA,CAAC;IACM,UAAU,CAAC,MAA8C;QAC5D,IAAI,CAAC,QAAQ,CAAC,GAAG,MAAM,CAAC;QACxB,OAAO,IAAI,CAAC;IAChB,CAAC;CACJ;AARD,4EAQC"}

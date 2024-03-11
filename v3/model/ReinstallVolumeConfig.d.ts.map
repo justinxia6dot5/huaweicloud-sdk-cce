@@ -1,0 +1,1 @@
+{"version":3,"file":"ReinstallVolumeConfig.d.ts","sourceRoot":"","sources":["../../../../../services/cce/v3/model/ReinstallVolumeConfig.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,WAAW,CAAC;AAGpC,qBAAa,qBAAqB;IACvB,SAAS,CAAC,EAAE,MAAM,CAAC;IACnB,OAAO,CAAC,EAAE,OAAO,CAAC;;IAGlB,aAAa,CAAC,SAAS,EAAE,MAAM,GAAG,qBAAqB;IAIvD,WAAW,CAAC,OAAO,EAAE,OAAO,GAAG,qBAAqB;CAI9D"}

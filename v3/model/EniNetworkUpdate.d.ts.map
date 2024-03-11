@@ -1,0 +1,1 @@
+{"version":3,"file":"EniNetworkUpdate.d.ts","sourceRoot":"","sources":["../../../../../services/cce/v3/model/EniNetworkUpdate.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,iBAAiB,CAAC;AAGhD,qBAAa,gBAAgB;IAClB,OAAO,CAAC,EAAE,KAAK,CAAC,aAAa,CAAC,CAAC;;IAG/B,WAAW,CAAC,OAAO,EAAE,KAAK,CAAC,aAAa,CAAC,GAAG,gBAAgB;CAItE"}

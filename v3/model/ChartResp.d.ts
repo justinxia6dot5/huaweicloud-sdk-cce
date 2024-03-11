@@ -1,0 +1,40 @@
+export declare class ChartResp {
+    id?: string;
+    name?: string;
+    values?: string;
+    translate?: string;
+    instruction?: string;
+    version?: string;
+    description?: string;
+    source?: string;
+    private 'icon_url'?;
+    private 'public'?;
+    private 'chart_url'?;
+    private 'create_at'?;
+    private 'update_at'?;
+    constructor();
+    withId(id: string): ChartResp;
+    withName(name: string): ChartResp;
+    withValues(values: string): ChartResp;
+    withTranslate(translate: string): ChartResp;
+    withInstruction(instruction: string): ChartResp;
+    withVersion(version: string): ChartResp;
+    withDescription(description: string): ChartResp;
+    withSource(source: string): ChartResp;
+    withIconUrl(iconUrl: string): ChartResp;
+    set iconUrl(iconUrl: string | undefined);
+    get iconUrl(): string | undefined;
+    withPublic(_public: boolean): ChartResp;
+    set _public(_public: boolean | undefined);
+    get _public(): boolean | undefined;
+    withChartUrl(chartUrl: string): ChartResp;
+    set chartUrl(chartUrl: string | undefined);
+    get chartUrl(): string | undefined;
+    withCreateAt(createAt: string): ChartResp;
+    set createAt(createAt: string | undefined);
+    get createAt(): string | undefined;
+    withUpdateAt(updateAt: string): ChartResp;
+    set updateAt(updateAt: string | undefined);
+    get updateAt(): string | undefined;
+}
+//# sourceMappingURL=ChartResp.d.ts.map

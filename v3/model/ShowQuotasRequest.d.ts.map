@@ -1,0 +1,1 @@
+{"version":3,"file":"ShowQuotasRequest.d.ts","sourceRoot":"","sources":["../../../../../services/cce/v3/model/ShowQuotasRequest.ts"],"names":[],"mappings":"AAEA,qBAAa,iBAAiB;IAC1B,OAAO,CAAC,cAAc,CAAC,CAAS;gBACb,WAAW,CAAC,EAAE,MAAM;IAGhC,eAAe,CAAC,WAAW,EAAE,MAAM,GAAG,iBAAiB;IAI9D,IAAW,WAAW,CAAC,WAAW,EAAE,MAAM,GAAI,SAAS,EAEtD;IACD,IAAW,WAAW,IAAI,MAAM,GAAG,SAAS,CAE3C;CACJ"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"SnapshotSpec.d.ts","sourceRoot":"","sources":["../../../../../services/cce/v3/model/SnapshotSpec.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,iBAAiB,EAAE,MAAM,qBAAqB,CAAC;AAGxD,qBAAa,YAAY;IACd,KAAK,CAAC,EAAE,KAAK,CAAC,iBAAiB,CAAC,CAAC;;IAGjC,SAAS,CAAC,KAAK,EAAE,KAAK,CAAC,iBAAiB,CAAC,GAAG,YAAY;CAIlE"}

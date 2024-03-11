@@ -1,0 +1,1 @@
+{"version":3,"file":"ShowQuotasResponse.js","sourceRoot":"","sources":["../../../../../services/cce/v3/model/ShowQuotasResponse.ts"],"names":[],"mappings":";;;AAEA,+EAA4E;AAE5E,MAAa,kBAAmB,SAAQ,yBAAW;IAE/C;QACI,KAAK,EAAE,CAAC;IACZ,CAAC;IACM,UAAU,CAAC,MAA4B;QAC1C,IAAI,CAAC,QAAQ,CAAC,GAAG,MAAM,CAAC;QACxB,OAAO,IAAI,CAAC;IAChB,CAAC;CACJ;AATD,gDASC"}

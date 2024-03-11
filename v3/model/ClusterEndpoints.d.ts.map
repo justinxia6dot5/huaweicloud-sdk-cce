@@ -1,0 +1,1 @@
+{"version":3,"file":"ClusterEndpoints.d.ts","sourceRoot":"","sources":["../../../../../services/cce/v3/model/ClusterEndpoints.ts"],"names":[],"mappings":"AAEA,qBAAa,gBAAgB;IAClB,GAAG,CAAC,EAAE,MAAM,CAAC;IACb,IAAI,CAAC,EAAE,MAAM,CAAC;;IAGd,OAAO,CAAC,GAAG,EAAE,MAAM,GAAG,gBAAgB;IAItC,QAAQ,CAAC,IAAI,EAAE,MAAM,GAAG,gBAAgB;CAIlD"}

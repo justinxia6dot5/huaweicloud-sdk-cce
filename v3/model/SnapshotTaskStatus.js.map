@@ -1,0 +1,1 @@
+{"version":3,"file":"SnapshotTaskStatus.js","sourceRoot":"","sources":["../../../../../services/cce/v3/model/SnapshotTaskStatus.ts"],"names":[],"mappings":";;;AAEA,MAAa,kBAAkB;IAE3B;IACA,CAAC;IACM,oBAAoB,CAAC,gBAAwB;QAChD,IAAI,CAAC,kBAAkB,CAAC,GAAG,gBAAgB,CAAC;QAC5C,OAAO,IAAI,CAAC;IAChB,CAAC;CACJ;AARD,gDAQC"}

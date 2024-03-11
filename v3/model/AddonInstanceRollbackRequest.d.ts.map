@@ -1,0 +1,1 @@
+{"version":3,"file":"AddonInstanceRollbackRequest.d.ts","sourceRoot":"","sources":["../../../../../services/cce/v3/model/AddonInstanceRollbackRequest.ts"],"names":[],"mappings":"AAEA,qBAAa,4BAA4B;IAC9B,SAAS,CAAC,EAAE,MAAM,CAAC;gBACP,SAAS,CAAC,EAAE,MAAM;IAG9B,aAAa,CAAC,SAAS,EAAE,MAAM,GAAG,4BAA4B;CAIxE"}

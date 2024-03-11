@@ -1,0 +1,1 @@
+{"version":3,"file":"QuotaRespQuotas.d.ts","sourceRoot":"","sources":["../../../../../services/cce/v3/model/QuotaRespQuotas.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,wBAAwB,EAAE,MAAM,4BAA4B,CAAC;AAGtE,qBAAa,eAAe;IACjB,SAAS,CAAC,EAAE,KAAK,CAAC,wBAAwB,CAAC,CAAC;;IAG5C,aAAa,CAAC,SAAS,EAAE,KAAK,CAAC,wBAAwB,CAAC,GAAG,eAAe;CAIpF"}

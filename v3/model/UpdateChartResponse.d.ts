@@ -1,0 +1,41 @@
+import { SdkResponse } from "@huaweicloud/huaweicloud-sdk-core/SdkResponse";
+export declare class UpdateChartResponse extends SdkResponse {
+    id?: string;
+    name?: string;
+    values?: string;
+    translate?: string;
+    instruction?: string;
+    version?: string;
+    description?: string;
+    source?: string;
+    private 'icon_url'?;
+    private 'public'?;
+    private 'chart_url'?;
+    private 'create_at'?;
+    private 'update_at'?;
+    constructor();
+    withId(id: string): UpdateChartResponse;
+    withName(name: string): UpdateChartResponse;
+    withValues(values: string): UpdateChartResponse;
+    withTranslate(translate: string): UpdateChartResponse;
+    withInstruction(instruction: string): UpdateChartResponse;
+    withVersion(version: string): UpdateChartResponse;
+    withDescription(description: string): UpdateChartResponse;
+    withSource(source: string): UpdateChartResponse;
+    withIconUrl(iconUrl: string): UpdateChartResponse;
+    set iconUrl(iconUrl: string | undefined);
+    get iconUrl(): string | undefined;
+    withPublic(_public: boolean): UpdateChartResponse;
+    set _public(_public: boolean | undefined);
+    get _public(): boolean | undefined;
+    withChartUrl(chartUrl: string): UpdateChartResponse;
+    set chartUrl(chartUrl: string | undefined);
+    get chartUrl(): string | undefined;
+    withCreateAt(createAt: string): UpdateChartResponse;
+    set createAt(createAt: string | undefined);
+    get createAt(): string | undefined;
+    withUpdateAt(updateAt: string): UpdateChartResponse;
+    set updateAt(updateAt: string | undefined);
+    get updateAt(): string | undefined;
+}
+//# sourceMappingURL=UpdateChartResponse.d.ts.map

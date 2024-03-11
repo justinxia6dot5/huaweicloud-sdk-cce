@@ -1,0 +1,1 @@
+{"version":3,"file":"OpenAPISpec.d.ts","sourceRoot":"","sources":["../../../../../services/cce/v3/model/OpenAPISpec.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,eAAe,EAAE,MAAM,mBAAmB,CAAC;AAGpD,qBAAa,WAAW;IACb,IAAI,CAAC,EAAE,eAAe,CAAC;;IAGvB,QAAQ,CAAC,IAAI,EAAE,eAAe,GAAG,WAAW;CAItD"}

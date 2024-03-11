@@ -1,0 +1,1 @@
+{"version":3,"file":"PartitionMetadata.d.ts","sourceRoot":"","sources":["../../../../../services/cce/v3/model/PartitionMetadata.ts"],"names":[],"mappings":"AAEA,qBAAa,iBAAiB;IACnB,IAAI,CAAC,EAAE,MAAM,CAAC;IACd,iBAAiB,CAAC,EAAE,MAAM,CAAC;;IAG3B,QAAQ,CAAC,IAAI,EAAE,MAAM,GAAG,iBAAiB;IAIzC,qBAAqB,CAAC,iBAAiB,EAAE,MAAM,GAAG,iBAAiB;CAI7E"}

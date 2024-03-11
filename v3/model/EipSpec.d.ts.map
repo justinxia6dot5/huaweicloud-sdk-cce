@@ -1,0 +1,1 @@
+{"version":3,"file":"EipSpec.d.ts","sourceRoot":"","sources":["../../../../../services/cce/v3/model/EipSpec.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,gBAAgB,EAAE,MAAM,oBAAoB,CAAC;AAGtD,qBAAa,OAAO;IACT,SAAS,CAAC,EAAE,gBAAgB,CAAC;;IAG7B,aAAa,CAAC,SAAS,EAAE,gBAAgB,GAAG,OAAO;CAI7D"}

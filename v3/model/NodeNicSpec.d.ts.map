@@ -1,0 +1,1 @@
+{"version":3,"file":"NodeNicSpec.d.ts","sourceRoot":"","sources":["../../../../../services/cce/v3/model/NodeNicSpec.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,OAAO,EAAE,MAAM,WAAW,CAAC;AAGpC,qBAAa,WAAW;IACb,UAAU,CAAC,EAAE,OAAO,CAAC;IACrB,OAAO,CAAC,EAAE,KAAK,CAAC,OAAO,CAAC,CAAC;;IAGzB,cAAc,CAAC,UAAU,EAAE,OAAO,GAAG,WAAW;IAIhD,WAAW,CAAC,OAAO,EAAE,KAAK,CAAC,OAAO,CAAC,GAAG,WAAW;CAI3D"}

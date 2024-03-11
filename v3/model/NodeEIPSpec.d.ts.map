@@ -1,0 +1,1 @@
+{"version":3,"file":"NodeEIPSpec.d.ts","sourceRoot":"","sources":["../../../../../services/cce/v3/model/NodeEIPSpec.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,aAAa,EAAE,MAAM,iBAAiB,CAAC;AAGhD,qBAAa,WAAW;IACb,MAAM,CAAC,EAAE,MAAM,CAAC;IAChB,SAAS,CAAC,EAAE,aAAa,CAAC;gBACd,MAAM,CAAC,EAAE,MAAM;IAG3B,UAAU,CAAC,MAAM,EAAE,MAAM,GAAG,WAAW;IAIvC,aAAa,CAAC,SAAS,EAAE,aAAa,GAAG,WAAW;CAI9D"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"HostnameConfig.d.ts","sourceRoot":"","sources":["../../../../../services/cce/v3/model/HostnameConfig.ts"],"names":[],"mappings":"AAEA,qBAAa,cAAc;IAChB,IAAI,CAAC,EAAE,sBAAsB,GAAG,MAAM,CAAC;gBAC3B,IAAI,CAAC,EAAE,MAAM;IAGzB,QAAQ,CAAC,IAAI,EAAE,sBAAsB,GAAG,MAAM,GAAG,cAAc;CAIzE;AAED;;;MAGM;AACN,oBAAY,sBAAsB;IAC9B,SAAS,cAAc;IACvB,WAAW,gBAAgB;CAC9B"}

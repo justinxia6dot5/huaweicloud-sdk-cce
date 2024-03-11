@@ -1,6 +1,6 @@
 {
   "name": "@justinxia6dot5/huaweicloud-sdk-cce",
-  "version": "3.1.82",
+  "version": "4.0.0",
   "description": "Huaweicloud SDK for cce, jk",
   "main": "huaweicloud-sdk-cce.js",
   "typings": "huaweicloud-sdk-cce.d.ts",

@@ -1,1 +1,10 @@
-{"version":3,"file":"ClusterConfigurationsSpec.d.ts","sourceRoot":"","sources":["../../../../../services/cce/v3/model/ClusterConfigurationsSpec.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,iCAAiC,EAAE,MAAM,qCAAqC,CAAC;AAGxF,qBAAa,yBAAyB;IAC3B,QAAQ,CAAC,EAAE,KAAK,CAAC,iCAAiC,CAAC,CAAC;gBACxC,QAAQ,CAAC,EAAE,KAAK,CAAC,iCAAiC,CAAC;IAG/D,YAAY,CAAC,QAAQ,EAAE,KAAK,CAAC,iCAAiC,CAAC,GAAG,yBAAyB;CAIrG"}
+{
+  "version": 3,
+  "file": "ClusterConfigurationsSpec.d.ts",
+  "sourceRoot": "",
+  "sources": [
+    "../../../../../services/cce/v3/model/ClusterConfigurationsSpec.ts"
+  ],
+  "names": [],
+  "mappings": "AAAA,OAAO,EAAE,iCAAiC,EAAE,MAAM,qCAAqC,CAAC;AAGxF,qBAAa,yBAAyB;IAC3B,QAAQ,CAAC,EAAE,KAAK,CAAC,iCAAiC,CAAC,CAAC;gBACxC,QAAQ,CAAC,EAAE,KAAK,CAAC,iCAAiC,CAAC;IAG/D,YAAY,CAAC,QAAQ,EAAE,KAAK,CAAC,iCAAiC,CAAC,GAAG,yBAAyB;CAIrG"
+}
